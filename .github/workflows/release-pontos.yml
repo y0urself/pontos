@@ -33,3 +33,5 @@ jobs:
     #     poetry run pontos-release release
     - name: Foo bar
       run: echo 'foo bar'
+    - name: Foo bar
+      run: echo 'foo bar baz'
